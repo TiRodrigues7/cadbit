@@ -71,7 +71,7 @@
 						</article>
 						<article>
 							<a class="thumbnail" href="images/fulls/06.png" data-position="left center"><img src="images/thumbs/06.png" alt="" /></a>
-							<h2><a href="https://hidraulicama.com.br/" class="botao-cad" >SAIBA MAIS</a></h2>
+							<h2><a href="https://hidraulicama.cadbit.com.br/" class="botao-cad" >SAIBA MAIS</a></h2>
 						</article>
 						<article>
 							<a class="thumbnail" href="images/fulls/04.png" data-position="left center"><img src="images/thumbs/04.png" alt="" /></a>
@@ -123,4 +123,5 @@
 			<script src="assets/js/main.js"></script>
 
 	</body>
+
 </html>
